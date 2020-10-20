@@ -1,16 +1,13 @@
-### Hi there 👋
+### Profilime hoşgeldin yavrum 🥳
 
-<!--
-**ByPikod/ByPikod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     🤜🏼 https://www.shark-mc.com 🤛🏼
 
-Here are some ideas to get you started:
+🤜 Java | PHP | JavaScript | LUA | C# 🤛
+      💻 FULLSTACK WEB DEVELOPER 💻
+               Pikod#0001
+               
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VirtualShop Minecraft Plugin: https://www.spigotmc.org/resources/74496/
+InviteTracker Discord Bot: https://top.gg/bot/765272674544386088
+WebSite: https://www.shark-mc.com
