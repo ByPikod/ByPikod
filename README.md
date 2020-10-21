@@ -1,11 +1,11 @@
 ### Profilime hoşgeldin yavrum 🥳
-<br>
-<br>     🤜🏼 https://www.shark-mc.com 🤛🏼
-<br>
-<br> 🤜 Java | PHP | JavaScript | LUA | C# 🤛
-<br>      💻 FULLSTACK WEB DEVELOPER 💻
-<br>               Pikod#0001
-<br>            
+```
+     🤜🏼 https://www.shark-mc.com 🤛🏼
+
+ 🤜 Java | PHP | JavaScript | LUA | C# 🤛
+      💻 FULLSTACK WEB DEVELOPER 💻
+              Pikod#0001
+```         
 ### Projects
 <br>
 <br> VirtualShop Minecraft Plugin: https://www.spigotmc.org/resources/74496/
