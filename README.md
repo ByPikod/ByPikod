@@ -1,4 +1,4 @@
-### Profilime hoşgeldin yavrum 🥳
+### Profilime hoşgeldin 🥳
 ```
      🤜🏼 https://www.shark-mc.com 🤛🏼
 
