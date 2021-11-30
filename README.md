@@ -12,5 +12,5 @@ My first experience with programming was in fifth grade. I was learning vbscript
 - Facebook: [pikod.vbs](https://www.facebook.com/pikod.vbs)
 - Youtube: [Pikod](https://www.youtube.com/c/Pikod)
 
-### Contact
+### Contact 📭
 Discord: [Pikod Private Server](https://discord.gg/z7K34mv2jE)
