@@ -1,5 +1,6 @@
+!(https://myoctocat.com/assets/images/base-octocat.svg)
 # Welcome to my profile 🥳
-Hello, I am Pikod. My real name is Yahya. I live in Denizli, Turkey.
+Hello, I am **Pikod**. My real name is **Yahya**. I live in **Denizli, Turkey**.
 <br>I learned programming languages I know on my own. I have been involved in many projects (Web sites, games, desktop softwares, applications...)
 
 ## First Experience ✨
@@ -7,10 +8,10 @@ My first experience with programming was in fifth grade. I was learning vbscript
 
 ## Social Media 🎭
 
-- Instagram: [@hzpikod](https://www.instagram.com/hzpikod/)
-- Twitter: [@hzpikod](https://twitter.com/hzpikod)
-- Facebook: [pikod.vbs](https://www.facebook.com/pikod.vbs)
-- Youtube: [Pikod](https://www.youtube.com/c/Pikod)
+- **Instagram: [@hzpikod](https://www.instagram.com/hzpikod/)
+- **Twitter: [@hzpikod](https://twitter.com/hzpikod)
+- **Facebook: [pikod.vbs](https://www.facebook.com/pikod.vbs)
+- **Youtube: [Pikod](https://www.youtube.com/c/Pikod)
 
 ## Contact 📭
-Discord: [Pikod Private Server](https://discord.gg/z7K34mv2jE)
+> Discord: [Pikod Private Server](https://discord.gg/z7K34mv2jE)
