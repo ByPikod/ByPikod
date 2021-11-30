@@ -1,6 +1,6 @@
 ![](https://myoctocat.com/assets/images/base-octocat.svg)
 # Welcome to my profile 🥳
-> Hello, I am **Pikod**. My real name is **Yahya**. I live in **Denizli, Turkey**. <
+> Hello, I am **Pikod**. My real name is **Yahya**. I live in **Denizli, Turkey**. >
 <br>I learned programming languages I know on my own. I have been involved in many projects (Web sites, games, desktop softwares, applications...)
 
 ## First Experience ✨
