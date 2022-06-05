@@ -1,4 +1,3 @@
-![Banner](https://pbs.twimg.com/profile_banners/1029099146907664384/1575105304/1500x500)
 # Welcome to my profile 🥳
 Hello, I am **Pikod**. My real name is **Yahya**. I live in **Denizli, Turkey**
 <br>I learned programming languages I know on my own. I have been involved in many projects (Web sites, games, desktop softwares, applications...)
