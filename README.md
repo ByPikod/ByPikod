@@ -10,6 +10,3 @@ My first experience with programming was in fifth grade. I was learning vbscript
 - **Twitter:** [@hzpikod](https://twitter.com/hzpikod)
 - **Facebook:** [pikod.vbs](https://www.facebook.com/pikod.vbs)
 - **Youtube:** [Pikod](https://www.youtube.com/c/Pikod)
-
-## Contact 📭
-> Discord: [Pikod Private Server](https://discord.gg/z7K34mv2jE)
