@@ -22,7 +22,7 @@
 <h2 align="center">Profile Statistics</b>
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=blue-green" width="400" /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=blue-green" width="400" /></br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=blue-green">
 </p>
 
