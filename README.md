@@ -35,7 +35,7 @@
 
 <p>
   <h6>Programming Languages</h6>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,js,ts,php,python">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,js,ts,php,python,go">
   <h6>Web Tools</h6>
   <img src="https://skillicons.dev/icons?i=html,css,react,sass,jquery,bootstrap,tailwind,cloudflare,express,nginx,webpack,wordpress">
   <h6>Other Tools</h6>
