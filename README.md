@@ -12,7 +12,7 @@
 <p align="left">
 
   <p align="center">
-    </br>
+    <br>
     Hello, I am <b>Pikod</b>. My real name is <b>Yahya</b>. I live in <b>Denizli, Turkey</b>
     <br>I was born in 2005 and I have been improving myself at programming since I was 12 years old.
     <br>These are some of my social media accounts that you can get contact with me:
@@ -34,7 +34,9 @@
 
 <h1 align="center">Trophies</h1>
 <p align="center">
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=25&margin-h=25&theme=radical&column=3&row=3" width="60%">
+  <br><br>
 </p>
 
 <!-- Statistics -->
@@ -46,8 +48,8 @@
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=radical" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=donut" height="200"></br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"></br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=donut" height="200"><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical">
 </p>
 
@@ -109,5 +111,6 @@
 <h1 align="center">Thanks for visiting!</h1>
 <p align="center">
   Thank You for Exploring My GitHub Profile! I appreciate your visit and interest in my work.
-  </br></br><img src="https://media.tenor.com/orTKpX4YeBAAAAAC/hello-jack.gif">
+  <br><br>
+  <img src="https://media.tenor.com/orTKpX4YeBAAAAAC/hello-jack.gif">
 </p>
