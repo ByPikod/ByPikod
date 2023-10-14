@@ -27,8 +27,9 @@
 
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=blue-green" width="400" /></br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=blue-green" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=blue-green" height="200"></br><br>
+  <img src="https://wakatime.com/share/@bypikod/555a9599-edfb-4f12-be47-213ea62472ae.png" width="400" />
 </p>
 
 <h1 align="center">Abilities</h1>
