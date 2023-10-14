@@ -9,7 +9,7 @@
 <img align="left" src="assets/emoji.gif" width="40px">
 <h1 align="center">Welcome to my profile</h1>
 
-<img align="right" src="assets/side.gif" height="200">
+<img align="right" src="assets/side.gif" height="700">
 
 <p align="left">
 
@@ -36,7 +36,7 @@
 
 <h1 align="center">Trophies</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-bg=true&no-frame=true&margin-w=20&theme=radical&column=9">
+  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-bg=true&no-frame=true&margin-w=20&theme=radical&column=3&row=3">
 </p>
 
 <!-- Statistics -->
