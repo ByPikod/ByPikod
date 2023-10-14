@@ -76,7 +76,7 @@
 <h6 align="center">Back End</h6>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,spring">
-  <!-- also: fiber -->
+  <!-- also: swagger -->
 </p>
 
 <h6 align="center">Web</h6>
@@ -105,6 +105,18 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,postgres">
 </p>
 
+<!-- Projects -->
+<img align="right" src="assets/emoji.gif" width="40px">
+<img align="left" src="assets/emoji.gif" width="40px">
+
+<h1 align="center">Open Source</h1>
+<br>
+<p align="center">
+  <a align="center" href="https://github.com/ByPikod/go-crypto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByPikod&repo=go-crypto&theme=radical">
+</p>
+
+<!-- Footer -->
 <img align="right" src="assets/emoji.gif" width="40px">
 <img align="left" src="assets/emoji.gif" width="40px">
 
