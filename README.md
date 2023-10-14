@@ -34,7 +34,7 @@
 
 <h1 align="center">Trophies</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-bg=true&no-frame=true&margin-w=20&theme=radical&column=3&row=3" width="90%">
+  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=25&margin-h=25&theme=radical&column=3&row=3" width="60%">
 </p>
 
 <!-- Statistics -->
@@ -47,7 +47,7 @@
   <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=radical" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=donut" height="200"></br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="100%"></br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"></br><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical">
 </p>
 
