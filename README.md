@@ -34,7 +34,7 @@
 
 <h1 align="center">Trophies</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-bg=true&no-frame=true&margin-w=20&theme=radical&column=3&row=3" width="60%">
+  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-bg=true&no-frame=true&margin-w=20&theme=radical&column=3&row=3" width="100%">
 </p>
 
 <!-- Statistics -->
