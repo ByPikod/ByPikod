@@ -51,6 +51,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=donut" height="200"><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical">
+  <p align="center">
+    <b>Since 14.10.2023</b>
+  </p>
 </p>
 
 <!-- Abilities -->
