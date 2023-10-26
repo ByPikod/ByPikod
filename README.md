@@ -120,6 +120,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a align="center" href="https://github.com/ByPikod/vscode-markdown-alert">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByPikod&repo=vscode-markdown-alert&theme=radical">
+  </a>
+  <a align="center" href="https://github.com/ByPikod/markdown-it-github-alert">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByPikod&repo=markdown-it-github-alert&theme=radical">
+  </a>
+</p>
+
 <!-- Funny -->
 <img align="right" src="assets/emoji.gif" width="40px">
 <img align="left" src="assets/emoji.gif" width="40px">
