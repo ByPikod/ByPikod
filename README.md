@@ -129,7 +129,7 @@
   </a>
 </p>
 
-<!-- Funny -->
+<!-- Funny 
 <img align="right" src="assets/emoji.gif" width="40px">
 <img align="left" src="assets/emoji.gif" width="40px">
 <h1 align="center">Funny</h1>
@@ -138,7 +138,7 @@
   <a align="center" href="https://github.com/ByPikod/markdown-it-github-alert/commit/c9b8e98534b403014d2235fbbef319a1ef313d4a">
     <img src="assets/commit1.png">
   </a>
-</p>
+</p>-->
 
 <!-- Footer -->
 <img align="right" src="assets/emoji.gif" width="40px">
