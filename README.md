@@ -46,7 +46,10 @@
 <h1 align="center">Statistics</h1>
 <p align="center">
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical"><br><br>
+  <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical">
+  <br><br>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ByPikod&theme=radical">
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=radical" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=donut" height="200"><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"><br><br>
