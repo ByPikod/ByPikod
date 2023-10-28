@@ -10,7 +10,7 @@
 <h1 align="center">Welcome to my profile</h1>
 
 <p align="left">
-
+    
   <p align="center">
     <br>
     Hello, I am <b>Pikod</b>. My real name is <b>Yahya</b>. I live in <b>Denizli, Turkey</b>
@@ -154,4 +154,5 @@
   <a href="/CREDITS.md">Click to see Credits</a>
   <br><br>
   <img src="https://media.tenor.com/orTKpX4YeBAAAAAC/hello-jack.gif">
+  <img src="https://readme-typing-svg.demolab.com/?lines=THANKS FOR VISITING MY PROFILE!&center=true">
 </p>

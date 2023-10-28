@@ -8,3 +8,6 @@
 * **Trophies:** https://github.com/ryo-ma/github-profile-trophy
 * **Commit Streak:** https://github.com/DenverCoder1/github-readme-streak-stats
 * **Contribution Graph:** https://github.com/Ashutosh00710/github-readme-activity-graph
+* **Contributor Stats:** https://github.com/HwangTaehyun/github-repository-contribution-stats
+* **Repository Contribution Stats:** https://github.com/anuraghazra/github-readme-stats
+* **Typing SVG:** https://github.com/DenverCoder1/readme-typing-svg
