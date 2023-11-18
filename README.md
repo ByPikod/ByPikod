@@ -76,7 +76,7 @@
 
 <h6 align="center">Front End</h6>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,sass,jquery,bootstrap,tailwind,webpack,electron">
+  <img src="https://skillicons.dev/icons?i=html,css,react,sass,jquery,bootstrap,tailwind,webpack,electron,next">
 </p>
 
 <h6 align="center">Back End</h6>
