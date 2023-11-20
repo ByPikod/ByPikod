@@ -26,27 +26,18 @@
     <img src="https://komarev.com/ghpvc/?username=bypikod&style=for-the-badge">
   </p>
 </p>
-
 <br>
 
-<img align="right" src="assets/emoji.gif" width="40px">
-<img align="left" src="assets/emoji.gif" width="40px">
-
-<h1 align="center">Trophies</h1>
-<p align="center">
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=25&margin-h=25&theme=radical&column=3&row=3" width="60%">
-  <br><br>
-</p>
 
 <!-- Languages -->
 <img align="right" src="assets/emoji.gif" width="40px">
 <img align="left" src="assets/emoji.gif" width="40px">
 
 <h1 align="center">Languages</h1>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=14&card_width=500" width="500"><br>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical&layout=compact">
   <p align="center">
     <b>Since 14.10.2023</b>
   </p>
@@ -58,10 +49,14 @@
 
 <h1 align="center">Statistics</h1>
 <p align="center">
-<br><br>
-  <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical&card_width=800" width="90%"><br>
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=10&margin-h=0&theme=radical&column=8&row=1" width="90%">
+  <hr width="90%">
+</p>
+<p align="center">
   <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=ByPikod&theme=radical">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=radical"/><br>
+  <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical&card_width=800" width="90%"><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="90%"><br>
 </p>
 
