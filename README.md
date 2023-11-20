@@ -51,7 +51,7 @@
 <p align="center">
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=30&margin-h=30&theme=radical&column=4&row=2" width="90%">
-  <h2></h2><br>
+  <h2></h2><br><br>
 </p>
 <p align="center">
   <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=ByPikod&theme=radical">
