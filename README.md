@@ -50,8 +50,8 @@
 <h1 align="center">Statistics</h1>
 <p align="center">
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=10&margin-h=0&theme=radical&column=8&row=1" width="90%">
-  <hr width="90%">
+  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=30&margin-h=30&theme=radical&column=4&row=2" width="90%">
+  <h2></h2>
 </p>
 <p align="center">
   <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=ByPikod&theme=radical">
