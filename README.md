@@ -40,7 +40,7 @@
   <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical&layout=compact">
   <p align="center">
     <b>Since 14.10.2023</b>
-  </p>
+  </p><br><br>
 </p>
 
 <!-- Statistics -->
@@ -51,13 +51,13 @@
 <p align="center">
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=30&margin-h=30&theme=radical&column=4&row=2" width="90%">
-  <h2></h2>
+  <h2></h2><br>
 </p>
 <p align="center">
   <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=ByPikod&theme=radical">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=radical"/><br>
   <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical&card_width=800" width="90%"><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="90%"><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="90%"><br><br><br><br>
 </p>
 
 <!-- Abilities -->
@@ -110,7 +110,7 @@
 <h6 align="center">Databases</h6>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,postgres">
-</p>
+</p><br><br>
 
 <!-- Projects -->
 <img align="right" src="assets/emoji.gif" width="40px">
@@ -143,7 +143,7 @@
     <img src="assets/commit1.png">
   </a>
 </p>-->
-
+<br><br>
 <!-- Footer -->
 <img align="right" src="assets/emoji.gif" width="40px">
 <img align="left" src="assets/emoji.gif" width="40px">
