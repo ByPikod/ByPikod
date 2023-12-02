@@ -1,6 +1,5 @@
 <!-- Introduction -->
 
-
 <p align="center">
   <img src="assets/banner.png">
 </p>
@@ -10,7 +9,7 @@
 <h1 align="center">Welcome to my profile</h1>
 
 <p align="left">
-    
+
   <p align="center">
     <br>
     Hello, I am <b>Pikod</b>. My real name is <b>Yahya</b>. I live in <b>Denizli, Turkey</b>
@@ -55,6 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=14&card_width=500" width="500"><br>
   <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical&layout=compact">
   <p align="center">
+    <!--<b>Since 1.12.2023</b>-->
     <b>Since 14.10.2023</b>
   </p><br><br>
 </p>
@@ -65,7 +65,7 @@
 
 <h1 align="center">Abilities</h1>
 <p align="center">
-  Claiming to have an ability to something may have a different meaning for each individual. 
+  Claiming to have an ability to something may have a different meaning for each individual.
   To avoid confusion, I should mention that the following tools and equipment are items I have used in at least one of my projects.
 </p>
 
