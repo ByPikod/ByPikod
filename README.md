@@ -81,7 +81,7 @@
 
 <h6 align="center">Back End</h6>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,spring">
+  <img src="https://skillicons.dev/icons?i=django,spring,laravel">
   <!-- also: swagger -->
 </p>
 
